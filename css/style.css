@@ -1,0 +1,15 @@
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    color: steelblue;
+}
+
+.navbar-bkg-color {
+    background: steelblue;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
