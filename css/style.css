@@ -16,6 +16,22 @@ body {
     color: white;
 }
 
-.pt25percent {
-    padding-top: 25%;
+.bkg-image {
+    background-image: url(https://images.unsplash.com/photo-1460572894071-bde5697f7197?dpr=1&auto=compress,format&fit=crop&w=1053&h=&q=80&cs=tinysrgb&crop=);
+    background-size: cover;
+    background-position: center;
+}
+
+.content-wrapper {
+    color: white;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid rgba(255,255,255,.5);
+    border-bottom: 1px solid rgba(0,0,0,.8);
 }
