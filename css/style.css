@@ -41,3 +41,7 @@ body {
     border-top: 1px solid rgba(255,255,255,.5);
     border-bottom: 1px solid rgba(0,0,0,.8);
 }
+
+.btn-bkg {
+    background-color: white;
+}
