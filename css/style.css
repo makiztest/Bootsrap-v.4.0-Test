@@ -13,3 +13,7 @@ body {
 .navbar-dark .navbar-nav .nav-link {
     color: white;
 }
+
+.pt25percent {
+    padding-top: 25%;
+}
